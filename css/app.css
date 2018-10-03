@@ -1,3 +1,22 @@
 * {
     box-sizing: border-box;
 }
+
+html, body {
+    height: 100%;
+    background-color: orange;
+}
+
+.hello {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hello h1 {
+    color: white;
+    font-family: Tahoma;
+    font-size: 40px;
+    font-weight: bold;
+}
