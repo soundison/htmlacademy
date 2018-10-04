@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
 }
-
+/* Это стили тегов html и body */
 html, body {
     height: 100%;
     background-color: orange;
