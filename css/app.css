@@ -16,6 +16,7 @@ html, body {
     align-items: center;
 }
 
+/* Это стили заголовка с приветствием */
 .hello h1 {
     color: teal;
     font-family: Tahoma;
